@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
