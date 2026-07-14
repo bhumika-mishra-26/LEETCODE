@@ -36,21 +36,19 @@ class Solution {
 
     }
 
+    //isme humlog sabse pehle chota index find karenge 
     public int search(int[] nums, int target) {
 
-        //isme humlog sabse pehle chota index find karenge 
         int n = nums.length;
 
-        int pivot = findPivot(nums);
-      if(target >= nums[pivot] && target <= nums[n-1])
-{
-    return binarySearch(pivot, n-1, nums, target);
-}
-else
-{
-    return binarySearch(0, pivot-1, nums, target);
-}
-      
+        int pivot_index = findPivot(nums);
+
+        int idx = binarySearch(0, pivot_index - 1, nums, target);
+
+        if (idx != -1)
+            return idx;
+
+        return binarySearch(pivot_index, n - 1, nums, target);
 
     }
 }
