@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0198-house-robber) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 | [1143-longest-common-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
