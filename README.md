@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0198-house-robber) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 ## Sliding Window
