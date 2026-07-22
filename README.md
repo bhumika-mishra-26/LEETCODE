@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -211,5 +212,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
