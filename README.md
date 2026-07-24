@@ -25,6 +25,7 @@
 | [0239-sliding-window-maximum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
@@ -45,6 +46,7 @@
 | [0198-house-robber](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
