@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -79,6 +80,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0704-binary-search) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Combinatorics
