@@ -61,6 +61,7 @@
 | [0050-powx-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -159,6 +160,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
