@@ -240,11 +240,13 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -252,4 +254,5 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
