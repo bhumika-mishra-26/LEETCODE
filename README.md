@@ -17,6 +17,7 @@
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0213-house-robber-ii) |
@@ -78,6 +79,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
