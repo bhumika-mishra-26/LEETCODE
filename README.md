@@ -31,6 +31,7 @@
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
@@ -67,6 +68,7 @@
 | [0050-powx-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -171,6 +173,7 @@
 | [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
