@@ -252,6 +252,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,4 +272,5 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 <!---LeetCode Topics End-->
