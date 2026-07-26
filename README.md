@@ -21,6 +21,7 @@
 | [0162-find-peak-element](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0238-product-of-array-except-self) |
@@ -68,6 +69,7 @@
 | [0050-powx-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -179,6 +181,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1291-sequential-digits) |
 ## Linked List
 |  |
@@ -216,6 +219,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
