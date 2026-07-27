@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -121,6 +122,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
@@ -235,6 +237,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1260-shift-2d-grid) |
 ## Recursion
