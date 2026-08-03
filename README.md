@@ -75,6 +75,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0628-maximum-product-of-three-numbers) |
+| [1492-the-kth-factor-of-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1492-the-kth-factor-of-n) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1492-the-kth-factor-of-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
@@ -299,4 +301,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
