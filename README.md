@@ -30,6 +30,7 @@
 | [0322-coin-change](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
@@ -85,6 +86,7 @@
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0045-jump-game-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -291,4 +295,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
