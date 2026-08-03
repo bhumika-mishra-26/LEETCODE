@@ -17,6 +17,7 @@
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -147,6 +148,7 @@
 | [0013-roman-to-integer](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
