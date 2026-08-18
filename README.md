@@ -27,6 +27,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0416-partition-equal-subset-sum) |
@@ -90,6 +91,7 @@
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
 ## Binary Search
@@ -101,6 +103,7 @@
 | [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
@@ -330,4 +333,16 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
