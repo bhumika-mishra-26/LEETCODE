@@ -45,6 +45,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
@@ -167,6 +168,7 @@
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -252,6 +254,7 @@
 | [0238-product-of-array-except-self](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1109-corporate-flight-bookings) |
+| [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
 ## Number Theory
 |  |
 | ------- |
