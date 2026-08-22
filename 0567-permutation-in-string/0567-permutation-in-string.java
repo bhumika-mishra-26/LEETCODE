@@ -21,13 +21,15 @@ class Solution {
         int [] s2_count=new int [26];
         Arrays.fill(s1_count,0);
         Arrays.fill(s2_count,0);
-
+/// isme pehli window for both ka count claculate karliya h 
         for(int i=0;i<n1;i++)
         {
             s1_count[s1.charAt(i)-'a']++;
             s2_count[s2.charAt(i)-'a']++;
 
         }
+        // ab pehli window ke liye check kar lo 
+
   
     if(matches(s1_count,s2_count))
     return true;
@@ -36,6 +38,8 @@ class Solution {
     for(int i=n1;i<n2;i++)
     {
       s2_count[s2.charAt(i)-'a']++;
+      // jo index hataya h  uska index hoga  current index mai se s1 ki length ko subtract karne par jo value milegi 
+      
       s2_count[s2.charAt(i-n1)-'a']--;
       if(matches(s1_count,s2_count))
       return true;
