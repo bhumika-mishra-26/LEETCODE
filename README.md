@@ -386,4 +386,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
