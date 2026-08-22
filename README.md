@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0162-find-peak-element) |
@@ -359,6 +360,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
 | [2401-longest-nice-subarray](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2401-longest-nice-subarray) |
 ## Pigeonhole Principle
@@ -375,6 +377,7 @@
 | [0022-generate-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
