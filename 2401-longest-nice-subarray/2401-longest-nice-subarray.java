@@ -1,34 +1,34 @@
 class Solution {
     public int longestNiceSubarray(int[] nums) {
-        
         int n=nums.length;
-        int len=0;
-        
-        for(int i=0;i<n;i++)
+        int l=0;
+        int r=0;
+        int mask=0;
+        int maxi=0;
+
+
+        while(r<n)
         {
-            int c=1;
-            int used=nums[i];
+           
 
-            for(int j=i+1;j<n;j++)
+            while((mask & nums[r])!=0)
             {
-                if((used & nums[j])==0)
-                {
-// isse humko saari set bits milengi 
+               mask=mask^nums[l];
+               
+               l++;
 
-used=used | nums[j];
 
-                    c+=1;
 
-                }
-                else{
-                    break;
-                    
-                }
             }
-            len=Math.max(len,c);
+            mask|=nums[r];
+            maxi=Math.max(maxi,(r-l+1));
+            r++;
+
+
 
         }
-        return len;
+        return maxi;
 
+        
     }
 }
