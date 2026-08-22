@@ -12,6 +12,7 @@
 | [0041-first-missing-positive](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
@@ -359,6 +360,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
