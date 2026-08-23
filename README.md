@@ -40,6 +40,7 @@
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
@@ -134,6 +135,7 @@
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0295-find-median-from-data-stream) |
+| [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
+| [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
@@ -242,6 +245,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -401,4 +405,8 @@
 | [0183-customers-who-never-order](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0577-employee-bonus) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
