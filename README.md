@@ -145,6 +145,7 @@
 | [0622-design-circular-queue](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
+| [1603-design-parking-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
+| [1603-design-parking-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1603-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | [0043-multiply-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1603-design-parking-system) |
 ## Recursion
 |  |
 | ------- |
