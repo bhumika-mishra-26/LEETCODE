@@ -261,6 +261,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0622-design-circular-queue) |
@@ -327,6 +328,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0206-reverse-linked-list) |
 ## Tree
