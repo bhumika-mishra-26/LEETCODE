@@ -150,6 +150,7 @@
 | [0641-design-circular-deque](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
+| [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1603-design-parking-system) |
 ## Queue
@@ -178,6 +179,7 @@
 | [0443-string-compression](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1143-longest-common-subsequence) |
+| [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
@@ -205,6 +207,7 @@
 | [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
 | [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
