@@ -1,4 +1,5 @@
 class Solution {
+    // iska optimzed abhi aa nhi rha h 
     public long subArrayRanges(int[] nums) {
         long total=0;
         int n=nums.length;
