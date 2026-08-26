@@ -108,6 +108,7 @@
 | [0011-container-with-most-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0295-find-median-from-data-stream) |
@@ -213,6 +214,7 @@
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
@@ -283,6 +285,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0622-design-circular-queue) |
