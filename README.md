@@ -114,6 +114,7 @@
 | [0443-string-compression](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [0641-design-circular-deque](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
