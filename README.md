@@ -167,6 +167,7 @@
 | [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1603-design-parking-system) |
+| [1845-seat-reservation-manager](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1845-seat-reservation-manager) |
 | [2241-design-an-atm-machine](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2241-design-an-atm-machine) |
 | [2336-smallest-number-in-infinite-set](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -264,6 +265,7 @@
 | [0295-find-median-from-data-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
+| [1845-seat-reservation-manager](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Queue
 |  |
