@@ -170,6 +170,7 @@
 | [1845-seat-reservation-manager](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1845-seat-reservation-manager) |
 | [2241-design-an-atm-machine](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2241-design-an-atm-machine) |
 | [2336-smallest-number-in-infinite-set](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2336-smallest-number-in-infinite-set) |
+| [3829-design-ride-sharing-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3829-design-ride-sharing-system) |
 ## Queue
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0239-sliding-window-maximum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0641-design-circular-deque) |
+| [3829-design-ride-sharing-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3829-design-ride-sharing-system) |
 ## String
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3829-design-ride-sharing-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3829-design-ride-sharing-system) |
 ## Greedy
 |  |
 | ------- |
@@ -469,6 +472,7 @@
 | [0295-find-median-from-data-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1472-design-browser-history) |
+| [3829-design-ride-sharing-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3829-design-ride-sharing-system) |
 ## Database
 |  |
 | ------- |
