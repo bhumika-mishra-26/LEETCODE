@@ -186,6 +186,7 @@
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
@@ -216,6 +217,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
