@@ -168,6 +168,7 @@
 | [1472-design-browser-history](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1603-design-parking-system) |
 | [2241-design-an-atm-machine](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2241-design-an-atm-machine) |
+| [2336-smallest-number-in-infinite-set](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2336-smallest-number-in-infinite-set) |
 | [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -262,6 +264,7 @@
 | [0295-find-median-from-data-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -486,4 +489,8 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
