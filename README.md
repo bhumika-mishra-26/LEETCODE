@@ -110,6 +110,7 @@
 | [0011-container-with-most-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0234-palindrome-linked-list) |
@@ -280,6 +281,7 @@
 | [0047-permutations-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
@@ -302,6 +304,7 @@
 | [0002-add-two-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0234-palindrome-linked-list) |
@@ -322,6 +325,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
@@ -432,6 +436,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
