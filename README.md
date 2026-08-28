@@ -108,6 +108,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0148-sort-list) |
@@ -302,6 +303,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0148-sort-list) |
