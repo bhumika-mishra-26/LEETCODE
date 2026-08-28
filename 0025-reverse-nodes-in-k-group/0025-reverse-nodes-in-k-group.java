@@ -54,22 +54,15 @@ while(cnt<k)
     if(temp==null)
     return head;
 
-
     cnt+=1;
     temp=temp.next;
 
 }
-// extract the node after the k group 
-// recursive call lga do uske liye 
-
-
-ListNode curr=head;
 ListNode prev=null;
+ListNode curr=head;
 
 
-for(int i=0;i<k;i++)
-{
-
+for(int i=0;i<k;i++){
     ListNode front=curr.next;
     curr.next=prev;
     prev=curr;
@@ -77,12 +70,11 @@ for(int i=0;i<k;i++)
 
 
 }
- head.next = reverseKGroup(curr, k);
+ListNode newHead=reverseKGroup(curr,k);//reversal ke baad ka new head
+head.next=newHead;//head.next new res ko point krega 
 
-        // prev is the new head of this group
-        return prev;
 
+return prev;
     }
 }
-
 
