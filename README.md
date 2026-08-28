@@ -529,4 +529,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0023-merge-k-sorted-lists) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
