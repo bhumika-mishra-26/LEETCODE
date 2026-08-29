@@ -419,6 +419,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
@@ -451,6 +452,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Counting Sort
@@ -549,6 +551,7 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tournament Sort
 |  |
