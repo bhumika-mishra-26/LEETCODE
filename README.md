@@ -199,6 +199,7 @@
 | [0072-edit-distance](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
@@ -404,6 +405,7 @@
 | [0110-balanced-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -415,6 +417,7 @@
 | [0110-balanced-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
@@ -427,6 +430,7 @@
 | [0110-balanced-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -482,6 +486,7 @@
 | [0047-permutations-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
 | ------- |
