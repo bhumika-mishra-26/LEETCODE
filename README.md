@@ -22,6 +22,7 @@
 | [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0162-find-peak-element) |
@@ -228,6 +229,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0160-intersection-of-two-linked-lists) |
@@ -337,6 +339,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
@@ -402,6 +405,7 @@
 | [0101-symmetric-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
@@ -431,6 +435,7 @@
 | [0101-symmetric-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0144-binary-tree-preorder-traversal) |
