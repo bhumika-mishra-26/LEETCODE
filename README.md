@@ -55,6 +55,7 @@
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1109-corporate-flight-bookings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -107,6 +108,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [1492-the-kth-factor-of-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1492-the-kth-factor-of-n) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -245,6 +247,7 @@
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
@@ -271,6 +274,7 @@
 | [0239-sliding-window-maximum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [2401-longest-nice-subarray](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2401-longest-nice-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -372,6 +376,7 @@
 | [0238-product-of-array-except-self](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1109-corporate-flight-bookings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
 ## Number Theory
 |  |
