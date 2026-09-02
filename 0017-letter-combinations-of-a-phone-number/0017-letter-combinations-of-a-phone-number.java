@@ -1,50 +1,47 @@
 class Solution {
-    // isme har baar  uss digit se ek character pick karke we are moving on to the next character of that string mtlb breadth par uss character ki digits ko expand kar rhe h 
-
-    public  void solve(String digits,int idx,List<String>ans,StringBuilder   res,  Map<Character, String> mp)
-
+    public void solve(String digits,int index,StringBuilder str,HashMap<Integer,String>mp,List<String> ans)
     {
-        if(idx>=digits.length())
+        if(index>=digits.length())
         {
-ans.add(res.toString());
-return ;
+            ans.add(str.toString());
+            return ;
+
 
         }
-        char curr=digits.charAt(idx);
-        String letter=mp.get(curr);
-
-
-        for(int i=0;i<letter.length();i++)
+        char ch=digits.charAt(index);
+        int num=ch-'0';
+        String g=mp.get(num);
+        for(int i=0;i<g.length();i++)
         {
-           res.append(letter.charAt(i));
-
-            solve(digits,idx+1,ans,res,mp);
-            res.deleteCharAt(res.length()-1);
+            str.append(g.charAt(i));
+            solve(digits,index+1,str,mp,ans);
+            str.deleteCharAt(str.length()-1);
             
 
 
         }
+
     }
     public List<String> letterCombinations(String digits) {
+        int idx=0;
         List<String>ans=new ArrayList<>();
-        int n=digits.length();
-        if(n==0)
-        return new ArrayList<>();
+        HashMap<Integer,String>mp=new HashMap<>();
+        mp.put(2,"abc");
+        mp.put(3,"def");
+        mp.put(4,"ghi");
+        mp.put(5,"jkl");
+        mp.put(6,"mno");
+        mp.put(7,"pqrs");
+        mp.put(8,"tuv");
+        mp.put(9,"wxyz");
+     
+     
 
-     Map<Character, String> digitToLetters = new HashMap<>();
-        digitToLetters.put('2', "abc");
-        digitToLetters.put('3', "def");
-        digitToLetters.put('4', "ghi");
-        digitToLetters.put('5', "jkl");
-        digitToLetters.put('6', "mno");
-        digitToLetters.put('7', "pqrs");
-        digitToLetters.put('8', "tuv");
-        digitToLetters.put('9', "wxyz");
-
-
-        solve(digits,0,ans,new StringBuilder(), digitToLetters);
+        solve(digits,idx,new StringBuilder(),mp,ans);
         return ans;
 
 
+
+        
     }
 }
