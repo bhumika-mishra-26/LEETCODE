@@ -54,6 +54,7 @@
 | [0735-asteroid-collision](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
@@ -252,6 +253,7 @@
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -379,6 +381,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0238-product-of-array-except-self) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
