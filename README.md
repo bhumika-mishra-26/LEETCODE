@@ -44,6 +44,7 @@
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0641-design-circular-deque) |
@@ -254,6 +255,7 @@
 | [0205-isomorphic-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
@@ -385,6 +387,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1109-corporate-flight-bookings) |
