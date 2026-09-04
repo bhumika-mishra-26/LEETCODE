@@ -74,6 +74,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -395,6 +396,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
 | [3903-smallest-stable-index-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
 |  |
 | ------- |
