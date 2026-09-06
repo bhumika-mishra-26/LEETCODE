@@ -90,6 +90,7 @@
 | [0213-house-robber-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0583-delete-operation-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1035-uncrossed-lines) |
@@ -223,6 +224,7 @@
 | [0257-binary-tree-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1143-longest-common-subsequence) |
