@@ -65,6 +65,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1472-design-browser-history](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1472-design-browser-history) |
+| [1695-maximum-erasure-value](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1695-maximum-erasure-value) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2104-sum-of-subarray-ranges) |
 | [2241-design-an-atm-machine](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2241-design-an-atm-machine) |
 | [2401-longest-nice-subarray](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2401-longest-nice-subarray) |
@@ -270,6 +271,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
+| [1695-maximum-erasure-value](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1695-maximum-erasure-value) |
 | [2336-smallest-number-in-infinite-set](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2336-smallest-number-in-infinite-set) |
 | [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -295,6 +297,7 @@
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1695-maximum-erasure-value) |
 | [2401-longest-nice-subarray](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2401-longest-nice-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
