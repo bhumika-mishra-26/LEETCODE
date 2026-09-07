@@ -10,29 +10,32 @@ class Solution {
     {
         if(idx==n)
         {
-       List<Integer>arr=new ArrayList<>();
-       for(int num:nums)
-       {
-        arr.add(num);
+            ArrayList<Integer>res=new ArrayList<>();
 
-       }
-       ans.add(arr);
-       return ;
+            for(int i:nums)
+            {
+                res.add(i);
+
+            }
+            ans.add(res);
+            return ;
         }
 
-        for(int i=idx;i<nums.length;i++)
-        {//
-   //     isme swap karenge  karenge 
-            swap(nums,i,idx);
-            //explore step
-            solve(idx+1,n,ans,nums);
-            //undo this step
-            swap(nums,i,idx);
+            // isme ab swap karenge idx ko i se fir usko undo akrenge 
+            // dekho isme har index par  har ek  elemnt aa skta h  aur agar idx to 0 se karenge to repeat hogi isliye we start from idx
+
+            for(int i=idx;i<nums.length;i++)
+            {
+                //perform swap
+                swap(nums,i,idx);
+                // recursive call karo 
+                solve(idx+1,n,ans,nums);
+                // undo karo swap operation ko 
+                swap(nums,i,idx);
+
+            }
 
         
-
-        }
-
     }
     // isme har index ko swap karo idx se 
     public List<List<Integer>> permute(int[] nums) {
