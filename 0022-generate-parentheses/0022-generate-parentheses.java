@@ -1,5 +1,5 @@
 class Solution {
-    public void solve(List<String>ans,int n,int open,int closed,String res)
+    public void solve(int n,int open,int closed,String res, List<String>ans)
     {
         if(res.length()==2*n)
         {
@@ -8,23 +8,25 @@ class Solution {
 
         }
         if(open<n)
+
         {
-            solve(ans,n,open+1,closed,res+"(");
+            solve(n,open+1,closed,res+"(",ans);
 
         }
         if(closed<open)
+        
         {
-            solve(ans,n,open,closed+1,res+")");
-
+            solve(n,open,closed+1,res+")",ans);
+            
         }
     }
-
+    
     public List<String> generateParenthesis(int n) {
         List<String>ans=new ArrayList<>();
         int open=0;
         int closed=0;
-        // isme open will always be less than n and clsoed should not be geater than open if so the strings generated are invalid 
-        solve(ans,n,open,closed,"");
+        // closed will be less than = to  oopen  and opne will be equal to n 
+        solve(n,open,closed,"",ans);
         return ans;
 
         
