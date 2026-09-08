@@ -9,11 +9,12 @@ class Solution {
 
 
         }
-        path.add(nums[idx]);
-
-        solve(idx+1,nums,ans,path);
-        path.remove(path.size()-1);
-        solve(idx+1,nums,ans,path);
+       path.add(nums[idx]);
+       solve(idx+1,nums,ans,path);
+       path.remove(path.size()-1);
+       solve(idx+1,nums,ans,path);
+       
+       
 
     }
     public List<List<Integer>> subsets(int[] nums) {
