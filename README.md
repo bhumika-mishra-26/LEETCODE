@@ -21,6 +21,7 @@
 | [0059-spiral-matrix-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -220,6 +221,7 @@
 | [0043-multiply-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0257-binary-tree-paths) |
@@ -417,6 +419,7 @@
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -465,6 +468,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -550,6 +554,7 @@
 | [0046-permutations](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
