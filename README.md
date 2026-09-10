@@ -26,6 +26,7 @@
 | [0090-subsets-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0152-maximum-product-subarray) |
@@ -87,6 +88,7 @@
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0213-house-robber-ii) |
