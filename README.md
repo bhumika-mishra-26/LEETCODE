@@ -16,6 +16,7 @@
 | [0046-permutations](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
@@ -564,6 +565,7 @@
 | [0039-combination-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
@@ -652,4 +654,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0836-rectangle-overlap) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
