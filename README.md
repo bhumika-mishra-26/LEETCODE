@@ -118,6 +118,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0733-flood-fill) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -494,6 +495,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -513,6 +515,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0733-flood-fill) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -536,6 +539,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
