@@ -74,6 +74,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2104-sum-of-subarray-ranges) |
 | [2241-design-an-atm-machine](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2241-design-an-atm-machine) |
 | [2401-longest-nice-subarray](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2401-longest-nice-subarray) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2848-points-that-intersect-with-cars](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2848-points-that-intersect-with-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -154,6 +155,7 @@
 | [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0876-middle-of-the-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0367-valid-perfect-square](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -348,6 +351,7 @@
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3536-maximum-product-of-two-digits) |
