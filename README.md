@@ -228,6 +228,7 @@
 | [0038-count-and-say](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
