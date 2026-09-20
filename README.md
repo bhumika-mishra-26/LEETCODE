@@ -248,6 +248,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1143-longest-common-subsequence) |
 | [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
+| [1694-reformat-phone-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1694-reformat-phone-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3498-reverse-degree-of-a-string) |
