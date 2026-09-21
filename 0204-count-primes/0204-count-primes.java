@@ -7,33 +7,34 @@ class Solution {
     // 4.now for each nums[i] as true mark all its multiples as false from 2 till sqrt n 
     
     public int countPrimes(int n) {
-        boolean [] primes=new boolean  [n+1];
-        for(int i=2;i<n;i++)
-        {
-            primes[i]=true;
+    
+    boolean [] primes=new boolean [n+1];
+    for(int i=2;i<=n;i++)
+    {
+        primes[i]=true;
 
-        }
-        for(int i=2;i*i<=n;i++)
+    }
+    for(int i=2;i*i<=n;i++)
+    {
+        if(primes[i]==true)
         {
-            if(primes[i]==true)
+            for(int j=i*i;j<n;j+=i)
             {
-                for(int j=i*i;j<=n;j+=i)
-                {
-                    primes[j]=false;
+                primes[j]=false;
 
-                }
+
             }
         }
-        int count=0;
+    }
+    int count=0;
 
-        for(int i=2;i<n;i++)
-        {
+    for(int i=2;i<n;i++)
+    {
+        if(primes[i]==true)
+        count+=1;
 
-if(primes[i]==true)
-count+=1;
-
-        }
-        return count;
+    }
+    return count;
 
 
         
