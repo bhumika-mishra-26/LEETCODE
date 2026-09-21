@@ -22,6 +22,7 @@
 | [0055-jump-game](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
@@ -277,6 +278,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
@@ -445,6 +447,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0733-flood-fill) |
