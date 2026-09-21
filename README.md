@@ -32,6 +32,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0152-maximum-product-subarray) |
@@ -99,6 +100,7 @@
 | [0072-edit-distance](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0213-house-robber-ii) |
