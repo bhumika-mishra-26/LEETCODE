@@ -642,6 +642,7 @@
 | [0182-duplicate-emails](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0185-department-top-three-salaries) |
 | [0577-employee-bonus](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0577-employee-bonus) |
 ## Hash Function
 |  |
