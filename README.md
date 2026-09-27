@@ -209,6 +209,7 @@
 | [0735-asteroid-collision](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0901-online-stock-span) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -268,6 +269,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
 | [1694-reformat-phone-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1694-reformat-phone-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -626,6 +628,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Data Stream
 |  |
 | ------- |
