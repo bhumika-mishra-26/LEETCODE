@@ -1,7 +1,7 @@
 class Solution {
     public int romanToInt(String s) {
-           int n = s.length();
-        HashMap<Character, Integer> mp = new HashMap<>();
+        int n=s.length();
+          HashMap<Character, Integer> mp = new HashMap<>();
 
         mp.put('I', 1);
         mp.put('V', 5);
@@ -10,28 +10,31 @@ class Solution {
         mp.put('C', 100);
         mp.put('D', 500);
         mp.put('M', 1000);
+        int last=mp.get(s.charAt(n-1));
         int number=mp.get(s.charAt(n-1));
-        int next=number;
 
+        int i=n-2;
 
-        for(int i=n-2;i>=0;i--)
+        while(i>=0)
         {
-            int v=mp.get(s.charAt(i));
-            if(v<next)
-            {
-                number-=v;
+            int val=mp.get(s.charAt(i));
+           if(val>=last)
+           {
+            number+=val;
 
-            }
-            else{
-                number+=v;
+           }
+           else{
+            number-=val;
 
-
-            }
-            next=v;
+           }
+           last=val;
+           i--;
+           
 
 
         }
-        return number;
+return number;
+
 
         
     }
