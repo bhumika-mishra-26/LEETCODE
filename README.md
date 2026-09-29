@@ -69,6 +69,7 @@
 | [0733-flood-fill](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
+| [0815-bus-routes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0815-bus-routes) |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
@@ -133,6 +134,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0733-flood-fill) |
+| [0815-bus-routes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0815-bus-routes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
@@ -312,6 +314,7 @@
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
+| [0815-bus-routes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0815-bus-routes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
