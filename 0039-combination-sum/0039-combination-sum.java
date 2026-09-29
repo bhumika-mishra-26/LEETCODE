@@ -1,41 +1,45 @@
 class Solution {
-    public void solve(int [] candidates,int target,List<List<Integer>>ans,List<Integer>res,int idx)
+    public  void solve(int [] candidates,int target,List<List<Integer>>ans,List<Integer>res,int idx,int n)
     {
-           if(target==0)
-        {
-        ans.add(new ArrayList<>(res));
-        return ;
-
-        }
-        if(idx==candidates.length)
+        if(idx==n)
         {
             return ;
 
         }
-        if(candidates[idx]>target)
+        if(target==0)
         {
-            return ;
+            ans.add(new ArrayList<>(res));
+            return;
 
         }
+       
+           
+    if(candidates[idx]>target){
+    return;
+    }
+
      
-    res.add(candidates[idx]);
-    // ek baaar add karo uss number aur idx update na karo 
-    solve(candidates,target-candidates[idx],ans,res,idx);
-    // unpick situtation
-    res.remove(res.size()-1);
-    solve(candidates,target,ans,res,idx+1);
+        
+        res.add(candidates[idx]);
+
+        /// pick situation hogi ye ismeindex vhi rehne do
+        solve(candidates,target-candidates[idx],ans,res,idx,n);
+        res.remove(res.size()-1);
+
+        // unpick situation mai sirf aage badhao 
+        solve(candidates,target,ans,res,idx+1,n);
+
 
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>>ans=new ArrayList<>();
         Arrays.sort(candidates);
+        int idx=0;
+        int n=candidates.length;
 
-        
-        solve(candidates,target,ans,new ArrayList<>(),0);
-
-return  ans;
+        solve(candidates,target,ans,new ArrayList<>(),0,n);
+        return  ans;
 
 
-        
     }
 }
