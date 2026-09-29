@@ -148,6 +148,7 @@
 | [0050-powx-n](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0367-valid-perfect-square) |
@@ -261,6 +262,7 @@
 | [0043-multiply-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
@@ -492,6 +494,7 @@
 | [0043-multiply-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1603-design-parking-system) |
@@ -606,6 +609,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
