@@ -1,38 +1,40 @@
 class Solution {
-    public boolean canEatAll(int [] piles,int mid,int h)
+    public boolean canEatAllBananas(int [] prices,int mid,int h )
     {
-        int actual=0;
-        for(int x:piles)
+        int hours=0;
+
+        for(int i:prices)
         {
-            actual+=x/mid;
-            if(x %mid!=0)
-            actual++;
+hours+=i/mid;
+if(i%mid!=0)
+hours++;
 
         }
-        return actual<=h;
+        return hours<=h;
+
     }
-    public int minEatingSpeed(int[] piles, int h) {
-        int p=piles.length;
+    public int minEatingSpeed(int[] prices, int h) {
+        int n=prices.length;
+        // dekho isme tumko nikkalna h koko har hour mai kitne fruits khaye ki vo saare fruits khatam karle h hours se pehle so use bs for that 
+        int l=1;
         int maxi=0;
-        for(int i:piles)
+        for(int i:prices)
         {
-            maxi=Math.max(i,maxi);
+            maxi=Math.max(maxi,i);
 
         }
-        int l=1;
-        int r=maxi;
-        while(l<r)
+        int high=maxi;
+        while(l<high)
         {
-            int mid=l+(r-l)/2;
-            if(canEatAll(piles,mid,h))
+            int mid=l+(high-l)/2;
+            if(canEatAllBananas(prices,mid,h))
             {
-                r=mid;
+                high=mid;
+                //possible ans;
 
             }
-            else{
-                l=mid+1;
-
-            }
+            else
+            l=mid+1;
 
         }
         return l;
