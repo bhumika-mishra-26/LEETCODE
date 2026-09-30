@@ -73,6 +73,7 @@
 | [0815-bus-routes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1035-uncrossed-lines](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1035-uncrossed-lines) |
@@ -321,6 +322,7 @@
 | [0705-design-hashset](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0706-design-hashmap) |
 | [0815-bus-routes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0815-bus-routes) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1331-rank-transform-of-an-array) |
@@ -353,6 +355,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1695-maximum-erasure-value) |
@@ -462,6 +465,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1109-corporate-flight-bookings) |
