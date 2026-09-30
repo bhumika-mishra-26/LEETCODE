@@ -71,6 +71,7 @@
 | [0735-asteroid-collision](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0739-daily-temperatures) |
 | [0815-bus-routes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0815-bus-routes) |
+| [0875-koko-eating-bananas](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
@@ -195,6 +196,7 @@
 | [0287-find-the-duplicate-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
