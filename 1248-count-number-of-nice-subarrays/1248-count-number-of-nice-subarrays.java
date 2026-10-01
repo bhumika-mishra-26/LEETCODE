@@ -1,30 +1,22 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-
-        HashMap<Integer, Integer> mp = new HashMap<>();
-
-        // Prefix sum 0 initially 1 time
-        mp.put(0, 1);
-
-        int sum = 0;
-        int ans = 0;
-
-        for (int num : nums) {
-
-            // Odd = 1, Even = 0
-            if (num % 2 != 0) {
-                sum++;
-            }
-
-            // need previous prefix sum = sum - k
-            if (mp.containsKey(sum - k)) {
-                ans += mp.get(sum - k);
-            }
-
-            // Store current prefix sum
-            mp.put(sum, mp.getOrDefault(sum, 0) + 1);
+        
+    HashMap<Integer,Integer>mp=new HashMap<>();
+    int ans=0;
+    mp.put(0,1);
+    int cnt=0;
+    for(int i:nums)
+    {
+        if(i%2==1)
+        {
+            cnt+=1;
         }
-
-        return ans;
+        if(mp.containsKey(cnt-k))
+        ans+=mp.get(cnt-k);
+        mp.put(cnt,mp.getOrDefault(cnt,0)+1);
+    }
+    return ans;
+        
     }
 }
+ 
