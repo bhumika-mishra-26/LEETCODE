@@ -268,6 +268,7 @@
 | [0058-length-of-last-word](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0205-isomorphic-strings) |
@@ -308,6 +309,7 @@
 | [0041-first-missing-positive](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0128-longest-consecutive-sequence) |
@@ -353,6 +355,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0438-find-all-anagrams-in-a-string) |
