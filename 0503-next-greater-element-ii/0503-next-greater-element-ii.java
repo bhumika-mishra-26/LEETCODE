@@ -1,33 +1,36 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-        // sirf array ko double krna pretend kran  h rest is same as nge1 
         int n=nums.length;
-        Stack<Integer>st=new Stack<>();
-
-
         int [] ans=new int [n];
-        for(int i=2*n-1;i>=0;i--)
+
+        Stack<Integer>st=new Stack<>();
+                for(int i=2*n-1;i>=0;i--)
         {
-            while(!st.isEmpty() && st.peek()<=nums[i%n])
+            while(!st.isEmpty() &&  nums[st.peek()]<=nums[i%n])
             {
                 st.pop();
+
             }
             if(i<n)
             {
-            if(st.isEmpty())
-            ans[i]=-1;
-            else
-            ans[i]=st.peek();
+                if(st.isEmpty())
+                {
+                    ans[i]=-1;
+
+
+                }
+                else{
+                    ans[i]=nums[st.peek()];
+
+                    
+                }
+                
             }
-            st.push(nums[i%n]);
-
-
-
+            st.push(i%n);
 
 
         }
         return ans;
 
-        
     }
 }
