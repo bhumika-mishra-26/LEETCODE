@@ -286,6 +286,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
 | [1694-reformat-phone-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1694-reformat-phone-number) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/3498-reverse-degree-of-a-string) |
