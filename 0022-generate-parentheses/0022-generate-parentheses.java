@@ -1,34 +1,31 @@
 class Solution {
-    public void solve(int n,int open,int closed,String res, List<String>ans)
+    public void solve(int n,int open,int closed,List<String>ans,String res)
     {
         if(res.length()==2*n)
         {
             ans.add(res);
-            return ;
+            return;
 
         }
         if(open<n)
-
         {
-            solve(n,open+1,closed,res+"(",ans);
+            solve(n,open+1,closed,ans,res+"(");
 
         }
         if(closed<open)
-        
         {
-            solve(n,open,closed+1,res+")",ans);
-            
+                   solve(n,open,closed+1,ans,res+")");
         }
     }
-    
     public List<String> generateParenthesis(int n) {
-        List<String>ans=new ArrayList<>();
         int open=0;
         int closed=0;
-        // closed will be less than = to  oopen  and opne will be equal to n 
-        solve(n,open,closed,"",ans);
+
+        List<String>ans=new ArrayList<>();
+        solve(n,open,closed,ans,"");
         return ans;
 
+    
         
     }
 }
