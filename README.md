@@ -226,6 +226,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1472-design-browser-history) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -290,6 +291,7 @@
 | [1143-longest-common-subsequence](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1396-design-underground-system](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1396-design-underground-system) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1694-reformat-phone-number](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1694-reformat-phone-number) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -359,6 +361,7 @@
 | [0324-wiggle-sort-ii](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0455-assign-cookies) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2241-design-an-atm-machine](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/2241-design-an-atm-machine) |
 ## Sliding Window
 |  |
@@ -671,6 +674,7 @@
 | [0022-generate-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhumika-mishra-26/LeetHub-V2/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Data Stream
 |  |
 | ------- |
